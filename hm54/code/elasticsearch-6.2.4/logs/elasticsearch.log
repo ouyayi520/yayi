@@ -1,0 +1,41 @@
+[2021-01-12T17:11:49,878][INFO ][o.e.n.Node               ] [] initializing ...
+[2021-01-12T17:11:50,363][INFO ][o.e.e.NodeEnvironment    ] [u-8sucP] using [1] data paths, mounts [[(D:)]], net usable_space [20.6gb], net total_space [38gb], types [NTFS]
+[2021-01-12T17:11:56,206][INFO ][o.e.e.NodeEnvironment    ] [u-8sucP] heap size [990.7mb], compressed ordinary object pointers [true]
+[2021-01-12T17:11:56,222][INFO ][o.e.n.Node               ] node name [u-8sucP] derived from node ID [u-8sucP7TAKA29OhZ2b9hQ]; set [node.name] to override
+[2021-01-12T17:11:56,236][INFO ][o.e.n.Node               ] version[6.2.4], pid[9932], build[ccec39f/2018-04-12T20:37:28.497551Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_212/25.212-b10]
+[2021-01-12T17:11:56,237][INFO ][o.e.n.Node               ] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=C:\Users\Administrator\AppData\local\Temp\elasticsearch, -XX:+HeapDumpOnOutOfMemoryError, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Delasticsearch, -Des.path.home=D:\hm54\code\elasticsearch-6.2.4, -Des.path.conf=D:\hm54\code\elasticsearch-6.2.4\config]
+[2021-01-12T17:12:25,875][INFO ][o.e.n.Node               ] [] initializing ...
+[2021-01-12T17:12:25,994][INFO ][o.e.e.NodeEnvironment    ] [u-8sucP] using [1] data paths, mounts [[(D:)]], net usable_space [21.1gb], net total_space [38gb], types [NTFS]
+[2021-01-12T17:12:25,994][INFO ][o.e.e.NodeEnvironment    ] [u-8sucP] heap size [990.7mb], compressed ordinary object pointers [true]
+[2021-01-12T17:12:25,998][INFO ][o.e.n.Node               ] node name [u-8sucP] derived from node ID [u-8sucP7TAKA29OhZ2b9hQ]; set [node.name] to override
+[2021-01-12T17:12:25,998][INFO ][o.e.n.Node               ] version[6.2.4], pid[6468], build[ccec39f/2018-04-12T20:37:28.497551Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_212/25.212-b10]
+[2021-01-12T17:12:25,998][INFO ][o.e.n.Node               ] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=C:\Users\Administrator\AppData\local\Temp\elasticsearch, -XX:+HeapDumpOnOutOfMemoryError, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Delasticsearch, -Des.path.home=D:\hm54\code\elasticsearch-6.2.4, -Des.path.conf=D:\hm54\code\elasticsearch-6.2.4\config]
+[2021-01-12T17:12:27,451][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [aggs-matrix-stats]
+[2021-01-12T17:12:27,452][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [analysis-common]
+[2021-01-12T17:12:27,453][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [ingest-common]
+[2021-01-12T17:12:27,453][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [lang-expression]
+[2021-01-12T17:12:27,453][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [lang-mustache]
+[2021-01-12T17:12:27,453][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [lang-painless]
+[2021-01-12T17:12:27,454][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [mapper-extras]
+[2021-01-12T17:12:27,454][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [parent-join]
+[2021-01-12T17:12:27,454][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [percolator]
+[2021-01-12T17:12:27,455][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [rank-eval]
+[2021-01-12T17:12:27,455][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [reindex]
+[2021-01-12T17:12:27,456][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [repository-url]
+[2021-01-12T17:12:27,458][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [transport-netty4]
+[2021-01-12T17:12:27,460][INFO ][o.e.p.PluginsService     ] [u-8sucP] loaded module [tribe]
+[2021-01-12T17:12:27,462][INFO ][o.e.p.PluginsService     ] [u-8sucP] no plugins loaded
+[2021-01-12T17:12:34,289][INFO ][o.e.d.DiscoveryModule    ] [u-8sucP] using discovery type [zen]
+[2021-01-12T17:12:35,426][INFO ][o.e.n.Node               ] initialized
+[2021-01-12T17:12:35,427][INFO ][o.e.n.Node               ] [u-8sucP] starting ...
+[2021-01-12T17:12:36,538][INFO ][o.e.t.TransportService   ] [u-8sucP] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2021-01-12T17:12:39,649][INFO ][o.e.c.s.MasterService    ] [u-8sucP] zen-disco-elected-as-master ([0] nodes joined), reason: new_master {u-8sucP}{u-8sucP7TAKA29OhZ2b9hQ}{6psnSiXWRpaPYbTLYABipw}{127.0.0.1}{127.0.0.1:9300}
+[2021-01-12T17:12:39,656][INFO ][o.e.c.s.ClusterApplierService] [u-8sucP] new_master {u-8sucP}{u-8sucP7TAKA29OhZ2b9hQ}{6psnSiXWRpaPYbTLYABipw}{127.0.0.1}{127.0.0.1:9300}, reason: apply cluster state (from master [master {u-8sucP}{u-8sucP7TAKA29OhZ2b9hQ}{6psnSiXWRpaPYbTLYABipw}{127.0.0.1}{127.0.0.1:9300} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)]])
+[2021-01-12T17:12:39,716][INFO ][o.e.g.GatewayService     ] [u-8sucP] recovered [0] indices into cluster_state
+[2021-01-12T17:12:40,250][INFO ][o.e.h.n.Netty4HttpServerTransport] [u-8sucP] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2021-01-12T17:12:40,251][INFO ][o.e.n.Node               ] [u-8sucP] started
+[2021-01-12T17:50:47,792][INFO ][o.e.b.Bootstrap          ] running graceful exit on windows
+[2021-01-12T17:50:47,794][INFO ][o.e.n.Node               ] [u-8sucP] stopping ...
+[2021-01-12T17:50:47,822][INFO ][o.e.n.Node               ] [u-8sucP] stopped
+[2021-01-12T17:50:47,823][INFO ][o.e.n.Node               ] [u-8sucP] closing ...
+[2021-01-12T17:50:47,835][INFO ][o.e.n.Node               ] [u-8sucP] closed
